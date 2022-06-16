@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignments in this section move teaching to the outside world by
+  driving the student to recruit subjects, gather information, create stimuli, and
+  test subjects. Subjects will be scanned in an fMRI during presentation of various
+  stimuli, and the areas of the brain that show increased activity will be recorded
+  and analyzed.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
