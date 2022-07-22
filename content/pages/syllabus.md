@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ee5f2011-0fa0-441a-72dd-ac3094220591
 ---
@@ -17,6 +21,6 @@ This course is an investigation to distinguish episodic memory, which is memory 
 Requirements
 ------------
 
-There is a sequence of six [assignments]({{< baseurl >}}/pages/assignments) designed for the future researcher to start from an idea and a research question, and to proceed methodically through each step, from data collection to analysis, and finally to publication of the original work. This is a practical class that helps students develop the tools to become future researchers in the field.
+There is a sequence of six {{% resource_link e0b377f0-4ca5-ff92-1a42-839ef42cb0a5 "assignments" %}} designed for the future researcher to start from an idea and a research question, and to proceed methodically through each step, from data collection to analysis, and finally to publication of the original work. This is a practical class that helps students develop the tools to become future researchers in the field.
 
-The assignments culminate in a 15- to 20-page [final paper]({{< baseurl >}}/pages/assignments) of publishable quality in a peer-reviewed journal.
+The assignments culminate in a 15- to 20-page {{% resource_link e0b377f0-4ca5-ff92-1a42-839ef42cb0a5 "final paper" %}} of publishable quality in a peer-reviewed journal.
