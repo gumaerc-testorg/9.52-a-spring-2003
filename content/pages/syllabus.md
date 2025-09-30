@@ -16,7 +16,7 @@ Lectures: 1 session / week, 3 hours / session
 Description
 -----------
 
-This course is an investigation to distinguish episodic memory, which is memory of personal events, from semantic memory, which is general knowledge independent of time and place. The major task is to create episodic stimuli, individually tailored for each participant, using diaries and journals, as well as interviews with the participant's friends and family members. Further, a second task is to assist with scanning the participant at [MGH/MIT/HMS Martinos Center](http://www.martinos.org/), explaining the study to the participant, preparing the participant for scanning, and administering a questionnaire after the scanning session. An additional task is to create and distribute a recruiting flyer.
+This course is an investigation to distinguish episodic memory, which is memory of personal events, from semantic memory, which is general knowledge independent of time and place. The major task is to create episodic stimuli, individually tailored for each participant, using diaries and journals, as well as interviews with the participant's friends and family members. Further, a second task is to assist with scanning the participant at {{% resource_link "4d386719-191f-4a0d-93a1-98679313d81e" "MGH/MIT/HMS Martinos Center" %}}, explaining the study to the participant, preparing the participant for scanning, and administering a questionnaire after the scanning session. An additional task is to create and distribute a recruiting flyer.
 
 Requirements
 ------------
